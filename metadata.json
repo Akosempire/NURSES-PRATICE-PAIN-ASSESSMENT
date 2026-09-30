@@ -1,0 +1,6 @@
+{
+  "name": "UATH Clinical Nursing Research Portal",
+  "description": "Clinical-grade research questionnaire platform for Nurses’ Practice of Pain Assessment and Management Among Critically Ill Patients at University of Abuja Teaching Hospital (UATH).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
